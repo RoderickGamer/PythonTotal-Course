@@ -1,7 +1,14 @@
 # PythonTotal-Course
 A repository to upload all the 16 proyects that I'll do in the course.
 ---
-- [x] Day 1: Name Maker [04/10/2023]
-- [x] Day 2: Commission Calculator
-- [ ] Day 3: Text Parser
+- [x] Day 1: [Name Maker](https://github.com/RoderickGamer/PythonTotal-Course/tree/main/Day1)                [04/10/2023]
+- [x] Day 2: [Commission Calculator](https://github.com/RoderickGamer/PythonTotal-Course/tree/main/Día%202)     [04/11/2023]
+- [x] Day 3: [Text Parser]()               [04/13/2023]
+- [ ] Day 4: Game Guess the Number
+- [ ] Day 5: Game Hangman
+- [ ] Day 6: Recipe book
+- [ ] Day 7: Bank account
+- [ ] Day 8: Turn console
+- [ ] Day 9: Serial number finder
+- [ ] Day 10: Game Spacial Invasion
 - [ ] ...
