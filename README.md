@@ -11,4 +11,9 @@ A repository to upload all the 16 proyects that I'll do in the course.
 - [ ] Day 8: Turn console
 - [ ] Day 9: Serial number finder
 - [ ] Day 10: Game Spacial Invasion
-- [ ] ...
+- [ ] Day 11: Web Data Extractor
+- [ ] Day 12: Restaurant Manager
+- [ ] Day 13: Voice Assistant
+- [ ] Day 14: Assist Controller
+- [ ] Day 15: Machine Learning Model
+- [ ] Day 16: To-do Web App
